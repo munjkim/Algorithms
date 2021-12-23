@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "aboutPython", "aboutPython\aboutPython.pyproj", "{8BD00223-C627-4C17-A529-AFFE8FAE1AD7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bubbleSort", "bubbleSort\bubbleSort.pyproj", "{51DFF552-5B27-4E67-A60C-B4CFFD4B22AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD00223-C627-4C17-A529-AFFE8FAE1AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD00223-C627-4C17-A529-AFFE8FAE1AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DFF552-5B27-4E67-A60C-B4CFFD4B22AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DFF552-5B27-4E67-A60C-B4CFFD4B22AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45840B9A-5236-4F4B-B209-EDD2E93A64C3}
+	EndGlobalSection
+EndGlobal
